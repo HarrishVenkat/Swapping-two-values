@@ -28,7 +28,7 @@ a,b=b,a
 print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-![swapping](https://github.com/HarrishVenkat/Swapping-two-values/assets/144979588/a7ff3c1d-2661-4718-bb5b-e8dd22372005)
+![image](https://github.com/HarrishVenkat/Swapping-two-values/assets/144979588/aca4ce59-cd46-4875-975c-e44fecd16407)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
